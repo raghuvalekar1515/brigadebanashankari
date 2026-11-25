@@ -43,7 +43,7 @@ logo and palette are this project's, generated from one facts file.
 
 ```
 site/            The website. The only directory served.
-  *.html         13 pages
+  *.html         15 pages
   robots.txt sitemap.xml   crawler files
   css/bootstrap.min.css  Bootstrap 6, trimmed to the classes the pages use
   css/site.css   the site's design, on Bootstrap's tokens
@@ -139,7 +139,7 @@ email, so enquiries from different campaigns are told apart.
 Three places, because both layers whitelist their fields - adding the input
 alone would submit nothing:
 
-| Change the value | `value="…"` in the ten pages with a contact form |
+| Change the value | `value="…"` in the twelve pages with a contact form |
 | --- | --- |
 | Send a different field | `payload` in `site/js/form-handler.js` |
 | Store or format it | `LIMITS`, `validate()`, `formatLead()` in `worker/index.js` |

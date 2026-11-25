@@ -88,6 +88,8 @@ Map: https://www.google.com/maps/search/?api=1&query=12.898622%2C77.524778
 - [Price](https://brigadebanashankari.org/price): configurations and homes planned, with prices at launch
 - [Gallery](https://brigadebanashankari.org/gallery): pictures of the towers, arrival, gardens and homes
 - [FAQs](https://brigadebanashankari.org/faqs): location, configurations, price, towers, amenities and the developer
+- [About Brigade Group](https://brigadebanashankari.org/about-builder): the developer: founded in 1986, its businesses, the cities where it builds homes and its stock-exchange listing
+- [Brigade Banashankari vs Vaishnavi Vana](https://brigadebanashankari.org/vs-vaishnavi-vana): side-by-side guide to Vaishnavi Vana, a smaller apartment community at Turahalli
 - [Contact](https://brigadebanashankari.org/contact-us): register your interest
 
 ## Contact
